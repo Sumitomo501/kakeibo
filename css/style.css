@@ -1,0 +1,12 @@
+.btn a {
+    text-decoration: none;
+   }
+   .btn a:link {
+    color: #fff;
+   }
+   .btn a:visited {
+    color: #fff;
+   }
+   .btna a:hover {
+    color: #fff;
+   }
